@@ -25,3 +25,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about MERN stack and Next.js
 - 💬 Ask me about ...
 - 📫 You can reach me at [monondcosta@gmail.com](monondcosta@gmail.com)
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Marg0n&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+[GitHub Streak](https://streak-stats.demolab.com?user=Marg0n&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
