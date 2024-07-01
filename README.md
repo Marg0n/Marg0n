@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Marg0n&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Marg0n&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Marg0n&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
