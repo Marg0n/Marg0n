@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [The Christian Co-operative Credit Union Ltd., Dhaka](https://cccul.com/)
 - 🌱 I’m currently learning more about MERN stack and Next.js
-- 💬 Ask me about ...
-- 📫 You can reach me at [monondcosta@gmail.com](monondcosta@gmail.com)
+- 📫 You can reach by the mail [monondcosta@gmail.com](monondcosta@gmail.com)
 
 ## :chart_with_upwards_trend: Current Stats
 
