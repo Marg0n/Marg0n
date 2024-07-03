@@ -2,7 +2,7 @@
 
 ## Hi there Friends! 👋
 
-I am ✨Margon✨, a MERN stack web developer. I love coding, as it gives me the feelings of 'I am creating something awesome!'. I also love to learning more about it.
+I am ✨Margon✨, a MERN stack web developer. I love coding, as it gives me the feelings of fulfillment. I also love to learn, know and work more about it.
 
 <!--
 **Marg0n/Marg0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
