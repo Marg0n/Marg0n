@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about MERN stack and Next.js
 - 📫 You can reach by the mail [monondcosta@gmail.com](monondcosta@gmail.com)
 
-## My Stats 
+## :bar_chart: My Stats 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marg0n&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
