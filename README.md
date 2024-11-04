@@ -72,5 +72,8 @@ Here are some ideas to get you started:
 
 ## 🧮 My Profile View Count:
 <div align='cecnter'> 
-    <img src="https://widgetbite.com/stats/{Marg0n}" alt="watching_count" />
+    <!-- <img src="https://widgetbite.com/stats/{Marg0n}" alt="watching_count" /> -->  
+    <img src="https://profile-counter.glitch.me/{random-guid}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+    <!--<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+    <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/> -->  
 </div>
