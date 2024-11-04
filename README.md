@@ -62,5 +62,15 @@ Here are some ideas to get you started:
 
 ## :technologist: My Most used Languages:
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marg0n"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marg0n"/>
+</div>
+
+## 🏆 My Trophy Stats:
+<div align='cecnter'>  
+    <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=juicyfresh&no-bg=true" /> 
+</div>
+
+## 🧮 My Profile View Count:
+<div align='cecnter'> 
+    <img src="https://widgetbite.com/stats/{Marg0n}" alt="watching_count" />
 </div>
