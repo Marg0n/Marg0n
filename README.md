@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <br />
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=Marg0n&theme=dark&date_format=M%20j%5B%2C%20Y%5D"  alt="GitHub Streak"/> 
+  <!-- <img width="60%" src="https://streak-stats.demolab.com/?user=Marg0n&theme=dark&date_format=M%20j%5B%2C%20Y%5D&short_numbers=true&fire=EB2D2D&background=45%2C2E2E2E1A%2C3277D9&dates=E87719"  alt="GitHub Streak"/> -->
 </p>
 
 ## :computer: Technologies that I code and have the knowledge
