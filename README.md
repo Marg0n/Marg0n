@@ -75,7 +75,7 @@ Here are some ideas to get you started:
     <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=juicyfresh&no-bg=true" /> 
 </div>
 
-## 🧮 My Profile View Count:
+## 🧮 Profile View Count:
 <div align='cecnter'> 
     <!-- <img src="https://widgetbite.com/stats/{Marg0n}" alt="watching_count" /> -->  
     <img src="https://profile-counter.glitch.me/{random-guid}/count.svg" alt="madushadhanushka :: Visitor's Count" />
