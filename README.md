@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marg0n"/>
 </div>
 
-## 🏆 My Trophy Stats:
+## 🏆 Trophy Stats:
 <div align='cecnter'>  
     <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=juicyfresh&no-bg=true" /> 
 </div>
