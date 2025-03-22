@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
-## :technologist: My Most used Languages:
+## :technologist: Most used Languages:
 <div align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marg0n"/>
 </div>
