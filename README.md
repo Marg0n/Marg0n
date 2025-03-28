@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Marg0n&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Current Streak Stats
 
 <br />
 <p align="center">
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
-## :technologist: Most used Languages:
+## :technologist: Most Used Languages:
 <div align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marg0n"/>
 </div>
