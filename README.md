@@ -1,8 +1,16 @@
-![Github Banner](assets/coding_happy.png)
+<!-- ![Github Banner](assets/coding_happy.png) -->
 
-## Hi there Friends! 👋
+<div align="center">
+  <img 
+    src='assets/coding_happy.png'
+    width="100%"
+    height="500px"
+  />
+</div>
 
-I am ✨Margon✨, a MERN stack web developer. I love coding, as it gives me the feelings of fulfillment. I also love to learn, know and work more about it.
+## Hi there, Friends! 👋
+
+I am ✨Sokhorio Margon D' Costa✨, a MERN stack web developer. Coding gives me fulfillment, and I love to learn, know, and work more about it.
 
 <!--
 **Marg0n/Marg0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +30,8 @@ Here are some ideas to get you started:
 ## About Me!
 
 - 🔭 I’m currently working at [The Christian Co-operative Credit Union Ltd., Dhaka](https://cccul.com/)
-- 🌱 I’m currently learning more about MERN stack and Next.js
-- 📫 You can reach by the mail [monondcosta@gmail.com](monondcosta@gmail.com)
+- 🌱 I’m currently learning more about the MERN stack and Next.js
+- 📫 You can reach me by email [monondcosta@gmail.com](monondcosta@gmail.com)
 
 ## :bar_chart: My Stats 
 <div align="center">
@@ -42,18 +50,24 @@ Here are some ideas to get you started:
   <!-- ![Margon's GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Marg0n&theme=black-ice&hide_border=true&background=45%2C8D0B15%2C1873006E&dates=FFFFFF&fire=CB0D0D&ring=128B09) -->
 </p>
 
-## :computer: Technologies that I code and have the knowledge
+## :computer: Technologies that I code and have knowledge of
 
 <br/>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS"/>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/NodeJs-188BA4?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs"/>
+    <img src="https://img.shields.io/badge/JavaScript-BA4188?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/NextJs-2A2023?style=for-the-badge&logo=next.js&logoColor=61DAFB" alt="NextJs"/>
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
 
 </p>
