@@ -85,14 +85,21 @@ Here are some ideas to get you started:
 </div>
 
 ## 🏆 Trophy Stats:
-<div align='cecnter'>  
+<div align='center'>  
     <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=juicyfresh&no-bg=true" /> 
 </div>
 
 ## 🧮 Profile View Count:
-<div align='cecnter'> 
-    <!-- <img src="https://widgetbite.com/stats/{Marg0n}" alt="watching_count" /> -->  
-    <img src="https://profile-counter.glitch.me/{random-guid}/count.svg" alt="madushadhanushka :: Visitor's Count" />
-    <!--<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
-    <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/> -->  
+<div align='center'> 
+    <!-- <img src="https://widgetbite.com/stats/{Marg0n}" alt="watching_count" />  -->  
+
+  👤 GitHub Profile Views
+  <!-- GitHub profile views -->
+  <img src="https://widgetbite.com/stats/Marg0n" alt="watching_count" alt="GitHub Profile Views" /> 
+  
+  <br/><br/>
+
+  📦 Repository Visitors
+  <!-- Repo visitor count -->
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Marg0n&repo=Marg0n&countColor=%237B1E7B"  alt="Repository Visitor Count" />
 </div>
