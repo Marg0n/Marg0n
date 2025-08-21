@@ -93,13 +93,13 @@ Here are some ideas to get you started:
 <div align='center'> 
     <!-- <img src="https://widgetbite.com/stats/{Marg0n}" alt="watching_count" />  -->  
 
-  👤 GitHub Profile Views
+  <!-- 👤 GitHub Profile Views
   <!-- GitHub profile views -->
-  <img src="https://widgetbite.com/stats/Marg0n" alt="watching_count" alt="GitHub Profile Views" /> 
+  <!-- <img src="https://widgetbite.com/stats/Marg0n" alt="watching_count" alt="GitHub Profile Views" /> 
   
   <br/><br/>
 
-  📦 Repository Visitors
+  📦 Repository Visitors -->
   <!-- Repo visitor count -->
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Marg0n&repo=Marg0n&countColor=%237B1E7B"  alt="Repository Visitor Count" />
 </div>
