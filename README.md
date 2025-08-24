@@ -86,7 +86,10 @@ Here are some ideas to get you started:
 
 ## 🏆 Trophy Stats:
 <div align='center'>  
-    <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=juicyfresh&no-bg=true" /> 
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=juicyfresh&no-bg=true" /> -->
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=onedark" /> -->
+    <img src="https://github-trophies.vercel.app/?username=Marg0n&theme=onedark" /> 
+    
 </div>
 
 ## 🧮 Profile View Count:
