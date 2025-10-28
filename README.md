@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src='assets/coding_happy.png'
+    src='assets/banner.png'
     width="100%"
     height="500px"
   />
