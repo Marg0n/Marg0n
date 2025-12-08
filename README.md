@@ -81,7 +81,8 @@ Here are some ideas to get you started:
 
 ## :technologist: Most Used Languages:
 <div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marg0n"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marg0n"/> -->
+    <img src="https://metrics.lecoq.io/Marg0n?template=classic&languages=1"/>
 </div>
 
 ## 🏆 Trophy Stats:
