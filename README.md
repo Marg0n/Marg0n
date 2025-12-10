@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## :bar_chart: My Stats 
 <div align="center">
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=Marg0n&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Marg0n&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## :chart_with_upwards_trend: Current Streak Stats
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <div align='center'>  
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=juicyfresh&no-bg=true" /> -->
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=Marg0n&theme=onedark" /> -->
-    <img src="https://github-trophies.vercel.app/?username=Marg0n&theme=onedark" /> 
+    <img src="https://github-trophies.vercel.app/wakatime?username=Marg0n&theme=onedark" /> 
     
 </div>
 
