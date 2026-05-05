@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT"/>
     <img src="https://img.shields.io/badge/NextJs-2A2023?style=for-the-badge&logo=next.js&logoColor=61DAFB" alt="NextJs"/>
+    <img src="https://img.shields.io/badge/NestJs-84ea25?style=for-the-badge&&logo=nestjs&logoColor=red" alt="NextJs"/>
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
 
 </p>
