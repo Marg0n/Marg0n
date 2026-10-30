@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td align="center" width="160">
+    <td align="left" width="160">
       <strong>🎨 Frontend</strong>
     </td>
     <td>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <strong>⚛️ Languages & Frameworks</strong>
     </td>
     <td>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <strong>⚙️ Backend</strong>
     </td>
     <td>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <strong>🗄️ Database & ORM</strong>
     </td>
     <td>
