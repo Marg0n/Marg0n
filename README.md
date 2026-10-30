@@ -156,6 +156,15 @@ Here are some ideas to get you started:
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Marg0n/next-level-portfolio">
+        <img src="https://github-readme-stats-reading.vercel.app/api/pin/?username=Marg0n&repo=next-level-portfolio&theme=radical&hide_border=true&bg_color=0000"
+             width="100%" alt="Bible Verse repository"/>
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 </br>
 
